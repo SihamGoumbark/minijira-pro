@@ -62,3 +62,4 @@ npm run dev
 
 - 📘 **[Télécharger / Consulter le Rapport de Projet (PDF)](./Rapport_Minijira_pro.pdf)**
 
+*(Note : Si l'aperçu intégré de GitHub ne s'affiche pas directement, cliquez simplement sur le bouton **Download** (`⤓`) ou **View raw** en haut à droite de la page du fichier pour l'ouvrir.)*
